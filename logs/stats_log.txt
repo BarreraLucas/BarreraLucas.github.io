@@ -1,0 +1,38 @@
+
+
+[2018-12-24 14:59:17] [AppID 221380] Schema not found on disk
+[2018-12-24 14:59:36] [AppID 221380] CAPIJobRequestUserStats - updated schema from server
+[2018-12-24 14:59:36] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-24 16:12:45] [AppID 221380] CAPIJobStoreUserStats::BInit() - no upload needed
+[2018-12-24 16:13:33] [AppID 221380] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2018-12-24 16:23:30] [AppID 221380] Schema not found on disk
+[2018-12-24 16:23:31] [AppID 221380] CAPIJobRequestUserStats - updated schema from server
+[2018-12-24 16:23:31] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-24 16:24:13] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-24 16:24:14] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-24 16:24:31] [AppID 221380] CAPIJobStoreUserStats::BInit() - no upload needed
+[2018-12-24 16:24:33] [AppID 221380] CAPIJobStoreUserStats::BInit() - no upload needed
+[2018-12-24 16:24:37] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-24 16:28:12] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-24 16:58:32] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-24 16:59:09] [AppID 221380] CAPIJobStoreUserStats::BInit() - no upload needed
+[2018-12-24 16:59:12] [AppID 221380] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2018-12-25 12:22:39] [AppID 221380] Loaded schema from disk.
+[2018-12-25 12:22:39] [AppID 221380] Loading stats from disk...
+[2018-12-25 12:22:39] [AppID 221380] Loading stats from disk...success
+[2018-12-25 12:22:41] [AppID 221380] CAPIJobRequestUserStats::YieldingMergeStats - beginning merge. . .
+[2018-12-25 12:22:41] [AppID 221380] CAPIJobRequestUserStats::YieldingMergeStats - server vs. local 'score' is 0, local changes = false
+[2018-12-25 12:22:41] [AppID 221380] CAPIJobRequestUserStats::YieldingMergeStats - using SERVER stats data
+[2018-12-25 12:22:56] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-25 12:23:55] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-25 12:24:14] [AppID 221380] CAPIJobStoreUserStats::BInit() - tabling this request due to rate-limiting
+[2018-12-25 12:24:15] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-25 12:28:18] [AppID 221380] CAPIJobStoreUserStats::BInit() - tabling this request due to rate-limiting
+[2018-12-25 12:28:18] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-25 13:14:04] [AppID 221380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-12-25 13:15:10] [AppID 221380] CAPIJobStoreUserStats::BInit() - no upload needed
+[2018-12-25 13:15:12] [AppID 221380] CAPIJobStoreUserStats::BInit() - no upload needed

@@ -1,0 +1,36 @@
+
+
+[2018-12-24 14:59:04] Generated client id: 2124593225946513854
+[2018-12-24 14:59:04] Listening for IPv4/IPv6 broadcast on: 27036
+[2018-12-24 14:59:04] Listening for connections on: 0.0.0.0:27036
+[2018-12-24 14:59:04] Received broadcast message from client 6163167036298478410 (Win-7-PC): 192.168.0.105:27036
+[2018-12-24 14:59:04] Received broadcast message from client 7176237667425244833 (WINDOWS-3F4M3J7): 192.168.0.110:27036
+[2018-12-24 14:59:08] Received broadcast message from client 6163167036298478410 (Win-7-PC): 192.168.0.105:27036
+[2018-12-24 14:59:09] Received broadcast message from client 7176237667425244833 (WINDOWS-3F4M3J7): 192.168.0.110:27036
+[2018-12-24 14:59:29] Received broadcast message from client 7176237667425244833 (WINDOWS-3F4M3J7): 192.168.0.110:27036
+[2018-12-24 14:59:32] Received broadcast message from client 6163167036298478410 (Win-7-PC): 192.168.0.105:27036
+[2018-12-24 16:08:02] Received broadcast message from client 8880978535976266245 (pupi): 192.168.0.111:27036
+[2018-12-24 16:08:02] Received discovery message from client 8880978535976266245 at 192.168.0.111:27036
+[2018-12-24 16:08:03] Received discovery message from client 8880978535976266245 at 192.168.0.111:27036
+[2018-12-24 16:08:06] Received broadcast message from client 8880978535976266245 (pupi): 192.168.0.111:27036
+[2018-12-24 16:08:07] Received discovery message from client 8880978535976266245 at 192.168.0.111:27036
+[2018-12-24 16:08:28] Received broadcast message from client 8880978535976266245 (pupi): 192.168.0.111:27036
+
+
+[2018-12-24 16:23:19] Loaded client id: 2124593225946513854
+[2018-12-24 16:23:19] Listening for IPv4/IPv6 broadcast on: 27036
+[2018-12-24 16:23:19] Listening for connections on: 0.0.0.0:27036
+[2018-12-24 16:23:19] Received broadcast message from client 8880978535976266245 (pupi): 192.168.0.111:27036
+[2018-12-24 16:23:19] Received broadcast message from client 7176237667425244833 (WINDOWS-3F4M3J7): 192.168.0.110:27036
+[2018-12-24 16:23:19] Received broadcast message from client 6163167036298478410 (Win-7-PC): 192.168.0.105:27036
+[2018-12-24 16:23:21] Received broadcast message from client 6163167036298478410 (Win-7-PC): 192.168.0.105:27036
+[2018-12-24 16:23:21] Received broadcast message from client 8880978535976266245 (pupi): 192.168.0.111:27036
+[2018-12-24 16:23:21] Received broadcast message from client 7176237667425244833 (WINDOWS-3F4M3J7): 192.168.0.110:27036
+[2018-12-24 16:23:38] Received broadcast message from client 7176237667425244833 (WINDOWS-3F4M3J7): 192.168.0.110:27036
+[2018-12-24 16:23:40] Received broadcast message from client 6163167036298478410 (Win-7-PC): 192.168.0.105:27036
+[2018-12-24 16:23:41] Received broadcast message from client 8880978535976266245 (pupi): 192.168.0.111:27036
+
+
+[2018-12-25 12:22:34] Loaded client id: 2124593225946513854
+[2018-12-25 12:22:34] Listening for IPv4/IPv6 broadcast on: 27036
+[2018-12-25 12:22:34] Listening for connections on: 0.0.0.0:27036

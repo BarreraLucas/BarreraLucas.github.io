@@ -1,0 +1,7 @@
+12/24/18 16:07:17 [AppID 221380] Exit Code (0) :  "C:\Users\lucas\Desktop\steamapps\common\Age2HD\_CommonRedist\vcredist\2012\vcredist_x86.exe" /quiet /norestart GLE 0
+12/24/18 16:07:19 [AppID 221380] Exit Code (0) :  "C:\Users\lucas\Desktop\steamapps\common\Age2HD\_CommonRedist\vcredist\2012\vcredist_x64.exe" /quiet /norestart GLE 131
+12/24/18 16:07:19 [AppID 221380] Exit Code (0) :  "C:\Users\lucas\Desktop\steamapps\common\Age2HD\_CommonRedist\vcredist\2013\vcredist_x86.exe" /quiet /norestart GLE 183
+12/24/18 16:07:20 [AppID 221380] Exit Code (0) :  "C:\Users\lucas\Desktop\steamapps\common\Age2HD\_CommonRedist\vcredist\2013\vcredist_x64.exe" /quiet /norestart GLE 183
+12/24/18 16:07:36 [AppID 221380] Exit Code (0) :  "C:\Users\lucas\Desktop\steamapps\common\Age2HD\_CommonRedist\vcredist\2015\Microsoft Visual C++ 2015 x86.cmd"  GLE 183
+12/24/18 16:10:38 [AppID 221380] Exit Code (0) :  "C:\Users\lucas\Desktop\steamapps\common\Age2HD\_CommonRedist\vcredist\2015\Microsoft Visual C++ 2015 x64.cmd"  GLE 183
+12/24/18 16:12:12 [AppID 221380] Exit Code (0) :  "C:\Users\lucas\Desktop\steamapps\common\Age2HD\_CommonRedist\DirectX\Jun2010\DXSETUP.exe" /silent GLE 183

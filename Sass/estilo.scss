@@ -1,0 +1,317 @@
+@import "./Styles";
+* {
+    margin: 0;
+    padding: 0;
+}
+
+$background-fondo:#000;
+$color:(95, 158, 160);
+$color-secundario:rgb(126, 89, 34);
+$ancho:100px;
+
+#logo img {
+    width: 100%;
+}
+
+/* CUERPO */
+body {
+    background-color: $background-fondo;
+}
+
+.navbar {
+    justify-content: flex-end;
+    padding: .5rem 1rem;
+    font-size: 20px;
+    background-color: brown;
+
+    .navbar a {
+        text-decoration: none;
+        color: burlywood;
+    }
+
+    .dropdown-menu.show {
+        display: block;
+        background-color: rgb(22, 18, 11);
+    }
+
+    .dropdown-menu {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        z-index: 1000;
+        display: none;
+        min-width: 7rem;
+        padding: .5rem 0;
+        margin: .125rem 0 0;
+        color: #212529;
+        list-style: none;
+        background-clip: padding-box;
+        border: 1px solid rgba(0, 0, 0, .15);
+        border-radius: .25rem;
+    }
+
+    .submenu:hover {
+        background-color: rgb(110, 106, 106);
+        height: 100%;
+    }
+
+}
+
+/* Presentacion */
+
+.alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: black;
+
+    .alert-success {
+        color: $color;
+        background-color: $background-fondo;
+        text-align: center;
+    }
+}
+
+
+
+.bienvenida {
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(104, 81, 52);
+}
+    .parrafo{
+        color: white;
+        padding: $ancho/10;
+        text-align: center;
+        font-size: 25px;
+    }
+
+
+
+/* Video centrado */
+.video {
+    text-align: center;
+}
+
+.articulo {
+    display: flex;
+    justify-content: space-between;
+    border: rgb(0, 0, 0);
+
+    .card {
+        position: relative;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        background-color: $background-fondo;
+    }
+
+    .card-title-index {
+        text-align: center;
+        font-size: 35px;
+        font-weight: bold;
+        color: rgb(104, 81, 52);
+    }
+
+    .card-text-index {
+        font-style: italic;
+        color: white;
+        font-size: 20px;
+    }
+
+    
+}
+
+
+/* SUBSCRIPCIONES */
+.suscripciones {
+    display: flex;
+    justify-content: space-between;
+
+    .sub {
+        text-align: center;
+        color: rgb(104, 81, 52);
+        font-size: 22px;
+    }
+
+    .precio {
+        text-align: center;
+        font-size: 15px;
+        border: 1px solid blanchedalmond;
+    }
+
+    div.boton {
+        text-align: center;
+    }
+}
+
+
+.contactos {
+    background: linear-gradient(to bottom, grey, black);
+    padding: 0%;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+    .contactos li a {
+        color: blanchedalmond;
+    }
+
+    .icono {
+        color: blanchedalmond;
+    }
+}
+
+
+h2.opinion {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
+
+#comentarios {
+    text-align: center;
+    padding: 20px;
+
+    textarea {
+        width: 60%;
+        height: 90px;
+        font-size: 17px;
+    }
+
+    .click:hover {
+        cursor: pointer;
+        transform: translateY(3px);
+        transition: all cubic-bezier(0.25, 0.610, 0.355, 1) 2s;
+    }
+}
+.media{
+    display: block;
+    justify-content: space-between;
+    
+}
+.p-futbol{
+    color: rgb(66, 94, 104);
+    font-size: 17px;
+    text-align: center;
+    border: solid 1px grey;
+}
+
+//PAGINA DE ERROR//
+.pagina-error{
+    margin: 0px;
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+}
+.animacion{
+    
+    animation-duration:2.5s ;
+    animation-fill-mode:both;
+    animation-iteration-count: infinite;
+}
+@keyframes bounce{
+    0%, 20%, 50%, 100%{transform:translateY(0);}
+    40%{transform: translateY(-30px);}
+    60%{transform:translateY(-15px);}
+}
+.bounce{
+    animation-name: bounce;
+}
+
+.error{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    width: 100%;
+}
+.error-container{
+    text-align: center;
+    color: white;
+    margin-top: 20%;
+    h1{
+        font-size: 60px;
+    }
+    p{
+        font-size: 18px;
+        color: black;
+    }
+}
+
+// SECTOR FUTBOL//
+.card-title-futbol{
+    font-size: 30px;
+    color: blanchedalmond;
+    font-weight: bold;
+}
+.card-text-futbol{
+    font-size: 18px;
+    color: white;
+}
+.media-body{
+    border: solid 2px rgb(119, 55, 55);
+}
+// sector basquet//
+.lead{
+    color: rgb(242, 243, 234);
+}
+.nba{
+font-size: 48px;
+color: rgb(253, 251, 249);
+text-align:inherit;
+}
+.texto-basquet{
+    font-size: 20px;
+    color:rgb(231, 231, 221) ;
+    text-align: webkit-left;
+}
+
+h5{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(8, 8, 8);
+}
+.parrafo-basquet{
+    color: rgb(250, 246, 246);
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+// tenis//
+.titulo-tenis{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(8, 8, 8);
+}
+.parrafo-tenis{
+    color: black;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-text-tenis{
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-text-tenis{
+    font-size: 18px;
+    color: white;
+    line-height: inherit;
+}
+
+// sector tienda//
+.card-title-tienda{
+    font-size: 30px;
+    color: blanchedalmond;
+    font-weight: bold;
+}
+.card-text-tienda{
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}

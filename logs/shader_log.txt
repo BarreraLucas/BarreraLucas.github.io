@@ -1,0 +1,38 @@
+
+
+[2018-12-24 14:57:47] Attempting to find current bucket; temporary dir: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_64
+[2018-12-24 14:57:47] Creating shader cache directory: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_64
+[2018-12-24 14:57:54] Unknown shader cache type, ignoring.
+[2018-12-24 14:57:54] Attempting to find current bucket; temporary dir: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_32
+[2018-12-24 14:57:54] Creating shader cache directory: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_32
+[2018-12-24 14:57:56] Unknown shader cache type, ignoring.
+[2018-12-24 14:57:56] Found 0 current buckets:
+[2018-12-24 16:12:13] Creating shader cache directory: C:\Users\lucas\Desktop\steamapps\shadercache\221380
+[2018-12-24 16:12:45] AppID 221380 exited.
+[2018-12-24 16:12:45] Unknown shader cache type, ignoring.
+[2018-12-24 16:13:33] AppID 221380 exited.
+[2018-12-24 16:13:33] Unknown shader cache type, ignoring.
+
+
+[2018-12-24 16:23:01] Attempting to find current bucket; temporary dir: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_64
+[2018-12-24 16:23:01] Creating shader cache directory: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_64
+[2018-12-24 16:23:04] Unknown shader cache type, ignoring.
+[2018-12-24 16:23:04] Attempting to find current bucket; temporary dir: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_32
+[2018-12-24 16:23:04] Creating shader cache directory: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_32
+[2018-12-24 16:23:06] Unknown shader cache type, ignoring.
+[2018-12-24 16:23:06] Found 0 current buckets:
+[2018-12-24 16:24:33] AppID 221380 exited.
+[2018-12-24 16:24:33] Unknown shader cache type, ignoring.
+[2018-12-24 16:59:12] AppID 221380 exited.
+[2018-12-24 16:59:12] Unknown shader cache type, ignoring.
+
+
+[2018-12-25 12:22:17] Attempting to find current bucket; temporary dir: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_64
+[2018-12-25 12:22:17] Creating shader cache directory: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_64
+[2018-12-25 12:22:19] Unknown shader cache type, ignoring.
+[2018-12-25 12:22:19] Attempting to find current bucket; temporary dir: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_32
+[2018-12-25 12:22:19] Creating shader cache directory: C:\Users\lucas\Desktop\shader_cache_temp_dir_gl_32
+[2018-12-25 12:22:21] Unknown shader cache type, ignoring.
+[2018-12-25 12:22:22] Found 0 current buckets:
+[2018-12-25 13:15:12] AppID 221380 exited.
+[2018-12-25 13:15:12] Unknown shader cache type, ignoring.

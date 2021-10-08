@@ -1,0 +1,273 @@
+
+
+[2018-12-24 14:57:46] Loaded 0 apps from install folder "C:\Users\lucas\Desktop\steamapps\appmanifest_*.acf".
+[2018-12-24 14:59:05] Got 100 content servers from directory
+[2018-12-24 14:59:58] AppID 221380 state changed : Update Required,
+[2018-12-24 14:59:58] AppID 221380 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=52, appDisableSecondsRemaining=0
+[2018-12-24 14:59:58] AppID 221380 state changed : Update Required,Update Queued,
+[2018-12-24 14:59:58] AppID 221380 state changed : Update Required,Update Queued,Update Running,
+[2018-12-24 14:59:58] AppID 221380 update changed : Running,
+[2018-12-24 14:59:58] AppID 221380 update changed : Running,Reconfiguring,
+[2018-12-24 14:59:59] Download system icon for AppID 221380 to C:\Users\lucas\Desktop\steam\games\ab157f4ccec5803629762c1a42be8fd7372fb31a.ico
+[2018-12-24 15:00:00] Got 20 download sources and 0 caching proxies via "/serverlist/116/20/" from valve1101.steamcontent.com
+[2018-12-24 15:00:00] Created download interface of type 'CS' (1) to host valve168.steamcontent.com (valve168.steamcontent.com)
+[2018-12-24 15:00:00] Created download interface of type 'CDN' (2) to host edgecast.cdn.steampipe.steamcontent.com (edgecast.cdn.steampipe.steamcontent.com)
+[2018-12-24 15:00:00] Created download interface of type 'CDN' (2) to host level3.cdn.steampipe.steamcontent.com (level3.cdn.steampipe.steamcontent.com)
+[2018-12-24 15:00:00] HTTP (CS,168) - valve168.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve168.steamcontent.com): AuthenticateDepotID (228984) - Success!
+[2018-12-24 15:00:01] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): valve168.steamcontent.com/depot/228984/manifest/2547553897526095397/5?l=14&e=1546279148&sid=919587646&h=b7edeff426debc00b21cde07dd641a1aff20c128 - received 200 (OK) HTTP response
+[2018-12-24 15:00:01] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): AuthenticateDepotID (228985) - Success!
+[2018-12-24 15:00:01] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): valve168.steamcontent.com/depot/228985/manifest/3966345552745568756/5?l=14&e=1546279149&sid=919587646&h=6e9f2af5f9a1195a0561b61746b0c166d2bea892 - received 200 (OK) HTTP response
+[2018-12-24 15:00:01] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228986) - Success!
+[2018-12-24 15:00:01] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.55.44.252:80 / 200.55.44.252:80, host: level3.cdn.steampipe.steamcontent.com): level3.cdn.steampipe.steamcontent.com/depot/228986/manifest/1003373983685403880/5?etime=1546279149&h=05e7ccf346f768ca59394 - received 200 (OK) HTTP response
+[2018-12-24 15:00:02] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.55.44.252:80 / 200.55.44.252:80, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228990) - Success!
+[2018-12-24 15:00:02] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.55.44.252:80 / 200.55.44.252:80, host: level3.cdn.steampipe.steamcontent.com): level3.cdn.steampipe.steamcontent.com/depot/228990/manifest/1829726630299308803/5?etime=1546279150&h=0f9e8e72d75f27f409d55 - received 200 (OK) HTTP response
+[2018-12-24 15:00:02] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.55.44.252:80 / 200.55.44.252:80, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:00:02] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.55.44.252:80 / 200.55.44.252:80, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221386) - Success!
+[2018-12-24 15:00:03] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.55.44.252:80 / 200.55.44.252:80, host: level3.cdn.steampipe.steamcontent.com): level3.cdn.steampipe.steamcontent.com/depot/221386/manifest/7588387394447155782/5?etime=1546279150&h=08a0b87c50deb601ee17b - received 200 (OK) HTTP response
+[2018-12-24 15:00:06] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): AuthenticateDepotID (221385) - Success!
+[2018-12-24 15:00:06] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): AuthenticateDepotID (221389) - Success!
+[2018-12-24 15:00:07] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: edgecast.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221395) - Success!
+[2018-12-24 15:00:07] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): valve168.steamcontent.com/depot/221385/manifest/4586626103938331242/5?l=14&e=1546279154&sid=919587646&h=561a5595ca2d30d3e0908db0ea52a93ea84a6ded - received 200 (OK) HTTP response
+[2018-12-24 15:00:08] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (152.199.53.21:80 / 152.199.53.21:80, host: edgecast.cdn.steampipe.steamcontent.com): edgecast.cdn.steampipe.steamcontent.com/depot/221395/manifest/8605037657018259986/5?valid_until=1546279155&hash=2013c57725938d4c1b3186811e443be8 - received 200 (OK) HTTP response
+[2018-12-24 15:00:09] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.55.44.252:80 / 200.55.44.252:80, host: level3.cdn.steampipe.steamcontent.com): level3.cdn.steampipe.steamcontent.com/depot/221381/manifest/1823527930179156287/5?etime=1546279150&h=0b84e2c70e36b9b81f473 - received 200 (OK) HTTP response
+[2018-12-24 15:00:10] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): valve168.steamcontent.com/depot/221389/manifest/3733794809018747474/5?l=14&e=1546279154&sid=919587646&h=36feb436a9b866e32b794549293af9ee5739abfe - received 200 (OK) HTTP response
+[2018-12-24 15:00:10] AppID 221380 update changed : Running,
+[2018-12-24 15:00:10] AppID 221380 update changed : Running,Validating,
+[2018-12-24 15:00:10] Validating files (new target,full) ...
+[2018-12-24 15:00:10] File validation finished: 12768 files (5113477113 bytes) total, 12768 files (5113477113 bytes) mismatched (325 msec).
+[2018-12-24 15:00:10] AppID 221380 update changed : Running,
+[2018-12-24 15:00:10] AppID 221380 update changed : Running,Preallocating,
+[2018-12-24 15:00:16] AppID 221380 update changed : Running,
+[2018-12-24 15:00:16] AppID 221380 update started : download 0/2715875936, store 0/0, reuse 0/0, delta 0/0, stage 0/5113477113
+[2018-12-24 15:00:16] AppID 221380 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2018-12-24 15:00:16] AppID 221380 update changed : Running,Downloading,
+[2018-12-24 15:00:16] AppID 221380 update changed : Running,Downloading,Staging,
+[2018-12-24 15:00:16] Downloading 15 chunks from depot 228984
+[2018-12-24 15:00:18] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (152.199.53.21:80 / 152.199.53.21:80, host: edgecast.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228984) - Success!
+[2018-12-24 15:00:18] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.55.44.252:80 / 200.55.44.252:80, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228984) - Success!
+[2018-12-24 15:00:19] AppID 221380 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=73, appDisableSecondsRemaining=0
+[2018-12-24 15:00:24] Increasing target number of download connections to 4 (rate was 0.000, now 1.553)
+[2018-12-24 15:00:24] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2018-12-24 15:00:24] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (228984) - Success!
+[2018-12-24 15:00:36] Increasing target number of download connections to 5 (rate was 1.553, now 4.052)
+[2018-12-24 15:00:36] Created download interface of type 'CS' (1) to host valve1701.steamcontent.com (valve1701.steamcontent.com)
+[2018-12-24 15:00:36] HTTP (CS,1701) - valve1701.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1701.steamcontent.com): AuthenticateDepotID (228984) - Success!
+[2018-12-24 15:00:43] Downloading 17 chunks from depot 228985
+[2018-12-24 15:00:43] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (228985) - Success!
+[2018-12-24 15:00:44] HTTP (CDN,11) - steampipe.akamaized.net (200.42.33.19:80 / 200.42.33.19:80, host: steampipe.akamaized.net): AuthenticateDepotID (228985) - Success!
+[2018-12-24 15:00:44] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (152.199.53.21:80 / 152.199.53.21:80, host: edgecast.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228985) - Success!
+[2018-12-24 15:00:44] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.55.44.252:80 / 200.55.44.252:80, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228985) - Success!
+[2018-12-24 15:00:48] Increasing target number of download connections to 6 (rate was 4.052, now 5.065)
+[2018-12-24 15:00:48] Created download interface of type 'CS' (1) to host valve1701.steamcontent.com (valve1701.steamcontent.com)
+[2018-12-24 15:00:48] HTTP (CS,1701) - valve1701.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1701.steamcontent.com): AuthenticateDepotID (228985) - Success!
+[2018-12-24 15:01:10] Downloading 28 chunks from depot 228986
+[2018-12-24 15:01:11] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): AuthenticateDepotID (228986) - Success!
+[2018-12-24 15:01:11] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (228986) - Success!
+[2018-12-24 15:01:11] HTTP (CDN,11) - steampipe.akamaized.net (200.42.33.8:80 / 200.42.33.8:80, host: steampipe.akamaized.net): AuthenticateDepotID (228986) - Success!
+[2018-12-24 15:01:11] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (152.199.53.21:80 / 152.199.53.21:80, host: edgecast.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228986) - Success!
+[2018-12-24 15:01:11] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (228986) - Success!
+[2018-12-24 15:01:15] Current download rate: 3.411 Mbps
+[2018-12-24 15:01:55] Downloading 203 chunks from depot 228990
+[2018-12-24 15:01:56] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (152.199.53.21:80 / 152.199.53.21:80, host: edgecast.cdn.steampipe.steamcontent.com): AuthenticateDepotID (228990) - Success!
+[2018-12-24 15:01:56] HTTP (CDN,11) - steampipe.akamaized.net (200.42.33.19:80 / 200.42.33.19:80, host: steampipe.akamaized.net): AuthenticateDepotID (228990) - Success!
+[2018-12-24 15:01:56] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (228990) - Success!
+[2018-12-24 15:01:56] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): AuthenticateDepotID (228990) - Success!
+[2018-12-24 15:01:56] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (228990) - Success!
+[2018-12-24 15:02:12] Increasing target number of download connections to 7 (rate was 5.065, now 6.794)
+[2018-12-24 15:02:12] Created download interface of type 'CS' (1) to host valve1103.steamcontent.com (valve1103.steamcontent.com)
+[2018-12-24 15:02:12] HTTP (CS,1103) - valve1103.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1103.steamcontent.com): AuthenticateDepotID (228990) - Success!
+[2018-12-24 15:02:24] Current download rate: 6.402 Mbps
+[2018-12-24 15:03:25] Current download rate: 5.876 Mbps
+[2018-12-24 15:04:22] Downloading 6402 chunks from depot 221381
+[2018-12-24 15:04:22] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:04:22] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:04:22] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:04:22] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (152.199.53.21:80 / 152.199.53.21:80, host: edgecast.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:04:22] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:04:22] HTTP (CDN,11) - steampipe.akamaized.net (200.42.33.19:80 / 200.42.33.19:80, host: steampipe.akamaized.net): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:04:26] Current download rate: 5.188 Mbps
+[2018-12-24 15:05:27] Current download rate: 6.342 Mbps
+[2018-12-24 15:06:27] Current download rate: 5.749 Mbps
+[2018-12-24 15:07:28] Current download rate: 4.015 Mbps
+[2018-12-24 15:08:29] Current download rate: 5.494 Mbps
+[2018-12-24 15:09:30] Current download rate: 4.714 Mbps
+[2018-12-24 15:10:31] Current download rate: 2.858 Mbps
+[2018-12-24 15:11:32] Current download rate: 5.796 Mbps
+[2018-12-24 15:12:33] Current download rate: 5.647 Mbps
+[2018-12-24 15:13:34] Current download rate: 4.891 Mbps
+[2018-12-24 15:14:35] Current download rate: 4.937 Mbps
+[2018-12-24 15:15:36] Current download rate: 3.739 Mbps
+[2018-12-24 15:16:37] Current download rate: 4.561 Mbps
+[2018-12-24 15:17:38] Current download rate: 4.694 Mbps
+[2018-12-24 15:18:39] Current download rate: 4.291 Mbps
+[2018-12-24 15:19:40] Current download rate: 3.724 Mbps
+[2018-12-24 15:20:41] Current download rate: 2.651 Mbps
+[2018-12-24 15:21:42] Current download rate: 4.685 Mbps
+[2018-12-24 15:22:43] Current download rate: 4.414 Mbps
+[2018-12-24 15:23:44] Current download rate: 4.127 Mbps
+[2018-12-24 15:24:45] Current download rate: 3.170 Mbps
+[2018-12-24 15:25:46] Current download rate: 4.833 Mbps
+[2018-12-24 15:26:47] Current download rate: 5.369 Mbps
+[2018-12-24 15:27:29] Increasing target number of download connections to 8 (rate was 6.794, now 8.223)
+[2018-12-24 15:27:29] Created download interface of type 'CS' (1) to host valve1103.steamcontent.com (valve1103.steamcontent.com)
+[2018-12-24 15:27:29] HTTP (CS,1103) - valve1103.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1103.steamcontent.com): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:27:48] Current download rate: 9.101 Mbps
+[2018-12-24 15:27:56] Increasing target number of download connections to 9 (rate was 8.223, now 9.969)
+[2018-12-24 15:27:56] Created download interface of type 'CS' (1) to host valve1101.steamcontent.com (valve1101.steamcontent.com)
+[2018-12-24 15:27:56] HTTP (CS,1101) - valve1101.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1101.steamcontent.com): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:28:48] Current download rate: 7.182 Mbps
+[2018-12-24 15:29:49] Current download rate: 5.702 Mbps
+[2018-12-24 15:30:50] Current download rate: 3.616 Mbps
+[2018-12-24 15:31:51] Current download rate: 2.471 Mbps
+[2018-12-24 15:32:52] Current download rate: 8.506 Mbps
+[2018-12-24 15:33:53] Current download rate: 7.389 Mbps
+[2018-12-24 15:34:54] Current download rate: 6.983 Mbps
+[2018-12-24 15:35:55] Current download rate: 10.722 Mbps
+[2018-12-24 15:36:37] Increasing target number of download connections to 10 (rate was 9.969, now 11.969)
+[2018-12-24 15:36:37] Created download interface of type 'CS' (1) to host valve710.steamcontent.com (valve710.steamcontent.com)
+[2018-12-24 15:36:37] HTTP (CS,710) - valve710.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve710.steamcontent.com): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:36:56] Current download rate: 10.911 Mbps
+[2018-12-24 15:37:57] Current download rate: 9.606 Mbps
+[2018-12-24 15:38:57] Current download rate: 8.886 Mbps
+[2018-12-24 15:39:58] Current download rate: 5.551 Mbps
+[2018-12-24 15:40:01] HTTP (CDN,11) - steampipe.akamaized.net (200.42.33.8:80 / 200.42.33.8:80, host: steampipe.akamaized.net): Received 0 (Invalid) HTTP response for depot 221381
+[2018-12-24 15:40:01] HTTP (CDN,11) - steampipe.akamaized.net (200.42.33.8:80 / 200.42.33.8:80, host: steampipe.akamaized.net): Closing connection
+[2018-12-24 15:40:01] Created download interface of type 'CS' (1) to host valve702.steamcontent.com (valve702.steamcontent.com)
+[2018-12-24 15:40:01] HTTP (CS,702) - valve702.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve702.steamcontent.com): AuthenticateDepotID (221381) - Success!
+[2018-12-24 15:40:59] Current download rate: 10.425 Mbps
+[2018-12-24 15:42:00] Current download rate: 8.998 Mbps
+[2018-12-24 15:42:46] Downloading 892 chunks from depot 221386
+[2018-12-24 15:42:47] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (221386) - Success!
+[2018-12-24 15:42:47] HTTP (CS,702) - valve702.steamcontent.com (162.254.195.12:80 / 162.254.195.12:80, host: valve702.steamcontent.com): AuthenticateDepotID (221386) - Success!
+[2018-12-24 15:42:47] HTTP (CS,1101) - valve1101.steamcontent.com (205.185.194.12:80 / 205.185.194.12:80, host: valve1101.steamcontent.com): AuthenticateDepotID (221386) - Success!
+[2018-12-24 15:42:47] HTTP (CS,710) - valve710.steamcontent.com (162.254.195.20:80 / 162.254.195.20:80, host: valve710.steamcontent.com): AuthenticateDepotID (221386) - Success!
+[2018-12-24 15:42:47] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): AuthenticateDepotID (221386) - Success!
+[2018-12-24 15:42:47] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): AuthenticateDepotID (221386) - Success!
+[2018-12-24 15:42:47] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (152.199.53.21:80 / 152.199.53.21:80, host: edgecast.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221386) - Success!
+[2018-12-24 15:42:47] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (221386) - Success!
+[2018-12-24 15:42:47] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): AuthenticateDepotID (221386) - Success!
+[2018-12-24 15:43:01] Current download rate: 9.953 Mbps
+[2018-12-24 15:44:02] Current download rate: 8.673 Mbps
+[2018-12-24 15:45:03] Current download rate: 5.968 Mbps
+[2018-12-24 15:45:30] Downloading 677 chunks from depot 221385
+[2018-12-24 15:45:30] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (221385) - Success!
+[2018-12-24 15:45:30] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): AuthenticateDepotID (221385) - Success!
+[2018-12-24 15:45:30] HTTP (CS,1101) - valve1101.steamcontent.com (205.185.194.12:80 / 205.185.194.12:80, host: valve1101.steamcontent.com): AuthenticateDepotID (221385) - Success!
+[2018-12-24 15:45:30] HTTP (CS,702) - valve702.steamcontent.com (162.254.195.12:80 / 162.254.195.12:80, host: valve702.steamcontent.com): AuthenticateDepotID (221385) - Success!
+[2018-12-24 15:45:30] HTTP (CS,710) - valve710.steamcontent.com (162.254.195.20:80 / 162.254.195.20:80, host: valve710.steamcontent.com): AuthenticateDepotID (221385) - Success!
+[2018-12-24 15:45:30] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): AuthenticateDepotID (221385) - Success!
+[2018-12-24 15:45:30] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (221385) - Success!
+[2018-12-24 15:45:31] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (152.199.53.21:80 / 152.199.53.21:80, host: edgecast.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221385) - Success!
+[2018-12-24 15:45:31] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.55.44.252:80 / 200.55.44.252:80, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221385) - Success!
+[2018-12-24 15:46:04] Current download rate: 5.965 Mbps
+[2018-12-24 15:47:05] Current download rate: 8.302 Mbps
+[2018-12-24 15:48:06] Current download rate: 8.024 Mbps
+[2018-12-24 15:49:00] Downloading 5424 chunks from depot 221389
+[2018-12-24 15:49:00] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (221389) - Success!
+[2018-12-24 15:49:00] HTTP (CS,710) - valve710.steamcontent.com (162.254.195.20:80 / 162.254.195.20:80, host: valve710.steamcontent.com): AuthenticateDepotID (221389) - Success!
+[2018-12-24 15:49:00] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): AuthenticateDepotID (221389) - Success!
+[2018-12-24 15:49:00] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): AuthenticateDepotID (221389) - Success!
+[2018-12-24 15:49:00] HTTP (CS,1101) - valve1101.steamcontent.com (205.185.194.12:80 / 205.185.194.12:80, host: valve1101.steamcontent.com): AuthenticateDepotID (221389) - Success!
+[2018-12-24 15:49:00] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (221389) - Success!
+[2018-12-24 15:49:00] HTTP (CS,702) - valve702.steamcontent.com (162.254.195.12:80 / 162.254.195.12:80, host: valve702.steamcontent.com): AuthenticateDepotID (221389) - Success!
+[2018-12-24 15:49:01] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.32.103.244:80 / 200.32.103.244:80, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221389) - Success!
+[2018-12-24 15:49:01] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (152.199.53.21:80 / 152.199.53.21:80, host: edgecast.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221389) - Success!
+[2018-12-24 15:49:07] Current download rate: 10.041 Mbps
+[2018-12-24 15:50:08] Current download rate: 7.239 Mbps
+[2018-12-24 15:51:09] Current download rate: 6.818 Mbps
+[2018-12-24 15:52:10] Current download rate: 8.287 Mbps
+[2018-12-24 15:53:00] Downloading 360 chunks from depot 221395
+[2018-12-24 15:53:00] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): AuthenticateDepotID (221395) - Success!
+[2018-12-24 15:53:00] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): AuthenticateDepotID (221395) - Success!
+[2018-12-24 15:53:00] HTTP (CS,710) - valve710.steamcontent.com (162.254.195.20:80 / 162.254.195.20:80, host: valve710.steamcontent.com): AuthenticateDepotID (221395) - Success!
+[2018-12-24 15:53:00] HTTP (CS,702) - valve702.steamcontent.com (162.254.195.12:80 / 162.254.195.12:80, host: valve702.steamcontent.com): AuthenticateDepotID (221395) - Success!
+[2018-12-24 15:53:00] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (221395) - Success!
+[2018-12-24 15:53:00] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.32.103.244:80 / 200.32.103.244:80, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221395) - Success!
+[2018-12-24 15:53:00] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): AuthenticateDepotID (221395) - Success!
+[2018-12-24 15:53:00] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): AuthenticateDepotID (221395) - Success!
+[2018-12-24 15:53:01] HTTP (CS,1101) - valve1101.steamcontent.com (205.185.194.12:80 / 205.185.194.12:80, host: valve1101.steamcontent.com): AuthenticateDepotID (221395) - Success!
+[2018-12-24 15:53:11] Current download rate: 7.000 Mbps
+[2018-12-24 15:54:12] Current download rate: 12.789 Mbps
+[2018-12-24 15:55:12] Current download rate: 12.616 Mbps
+[2018-12-24 15:56:13] Current download rate: 8.265 Mbps
+[2018-12-24 15:56:21] AppID 221380 update changed : Running,
+[2018-12-24 15:56:21] AppID 221380 update changed : Running,Committing,
+[2018-12-24 15:56:21] AppID 221380 file commit : 12967 updated, 0 moved, 0 deleted
+[2018-12-24 15:57:11] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): Closing connection
+[2018-12-24 15:57:12] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.32.103.244:80 / 200.32.103.244:80, host: level3.cdn.steampipe.steamcontent.com): Closing connection
+[2018-12-24 15:57:12] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): Closing connection
+[2018-12-24 15:57:13] HTTP (CS,168) - valve168.steamcontent.com (205.185.194.10:80 / 205.185.194.10:80, host: valve168.steamcontent.com): Closing connection
+[2018-12-24 15:57:13] HTTP (CS,1103) - valve1103.steamcontent.com (205.185.194.18:80 / 205.185.194.18:80, host: valve1103.steamcontent.com): Closing connection
+[2018-12-24 15:57:13] HTTP (CS,1701) - valve1701.steamcontent.com (155.133.249.132:80 / 155.133.249.132:80, host: valve1701.steamcontent.com): Closing connection
+[2018-12-24 15:57:14] HTTP (CS,1101) - valve1101.steamcontent.com (205.185.194.12:80 / 205.185.194.12:80, host: valve1101.steamcontent.com): Closing connection
+[2018-12-24 15:57:14] HTTP (CDN,32) - edgecast.cdn.steampipe.steamcontent.com (152.199.53.21:80 / 152.199.53.21:80, host: edgecast.cdn.steampipe.steamcontent.com): Closing connection
+[2018-12-24 15:57:14] Current download rate: 0.000 Mbps
+[2018-12-24 15:57:15] AppID 221380 state changed : Fully Installed,Update Queued,Update Running,
+[2018-12-24 15:57:15] AppID 221380 finished update, mounted depots (BuildID 3062235) : 228984 (2547553897526095397),228985 (3966345552745568756),228986 (1003373983685403880),228990 (1829726630299308803),221381 (1823527930179156287),221386 (7588387394447155782),221385 (4586626103938331242),221389 (3733794809018747474),221395 (8605037657018259986),
+[2018-12-24 15:57:15] AppID 221380 update changed : Running,
+[2018-12-24 15:57:15] AppID 221380 update changed : None
+[2018-12-24 15:57:15] AppID 221380 state changed : Fully Installed,Update Queued,
+[2018-12-24 15:57:15] AppID 221380 state changed : Fully Installed,
+[2018-12-24 15:57:15] AppID 221380 scheduler finished : removed from schedule
+[2018-12-24 15:57:15] AppID 221380 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=3489, appDisableSecondsRemaining=0
+[2018-12-24 15:57:15] AppID 221380 state changed : Fully Installed,Update Queued,
+[2018-12-24 15:57:15] HTTP (CS,702) - valve702.steamcontent.com (162.254.195.12:80 / 162.254.195.12:80, host: valve702.steamcontent.com): Closing connection
+[2018-12-24 15:57:15] AppID 221380 update changed : Running,
+[2018-12-24 15:57:15] AppID 221380 update changed : Running,Reconfiguring,
+[2018-12-24 15:57:15] AppID 221380 update changed : Running,
+[2018-12-24 15:57:15] AppID 221380 update changed : Running,Validating,
+[2018-12-24 15:57:15] AppID 221380 update changed : Running,
+[2018-12-24 15:57:15] AppID 221380 update started : download 0/0, store 0/0, reuse 0/0, delta 0/0, stage 0/0
+[2018-12-24 15:57:15] No changes detected, active:  target: 
+[2018-12-24 15:57:15] AppID 221380 update changed : Running,Committing,
+[2018-12-24 15:57:15] AppID 221380 file commit : 0 updated, 0 moved, 0 deleted
+[2018-12-24 15:57:15] AppID 221380 update changed : Running,
+[2018-12-24 15:57:15] AppID 221380 update changed : None
+[2018-12-24 15:57:15] AppID 221380 state changed : Fully Installed,
+[2018-12-24 15:57:15] AppID 221380 scheduler finished : removed from schedule
+[2018-12-24 15:57:21] HTTP (CS,710) - valve710.steamcontent.com (162.254.195.20:80 / 162.254.195.20:80, host: valve710.steamcontent.com): Closing connection
+[2018-12-24 16:12:13] AppID 221380 state changed : Fully Installed,App Running,
+[2018-12-24 16:12:45] AppID 221380 state changed : Fully Installed,
+[2018-12-24 16:13:25] AppID 221380 state changed : Fully Installed,App Running,
+[2018-12-24 16:13:33] AppID 221380 state changed : Fully Installed,
+
+
+[2018-12-24 16:23:01] Loaded 1 apps from install folder "C:\Users\lucas\Desktop\steamapps\appmanifest_*.acf".
+[2018-12-24 16:23:31] AppID 221380 state changed : Fully Installed,App Running,
+[2018-12-24 16:24:14] AppID 221380 scheduler update : Priority First, legacy=no, restore="", timeSinceLastPlayed=0, appDisableSecondsRemaining=0
+[2018-12-24 16:24:14] AppID 221380 state changed : Fully Installed,Update Queued,App Running,
+[2018-12-24 16:24:14] AppID 221380 update changed : Running,
+[2018-12-24 16:24:14] AppID 221380 update changed : Running,Reconfiguring,
+[2018-12-24 16:24:15] Got 20 download sources and 0 caching proxies via "/serverlist/116/20/" from valve1101.steamcontent.com
+[2018-12-24 16:24:15] Created download interface of type 'CS' (1) to host valve1102.steamcontent.com (valve1102.steamcontent.com)
+[2018-12-24 16:24:15] Created download interface of type 'CDN' (2) to host level3.cdn.steampipe.steamcontent.com (level3.cdn.steampipe.steamcontent.com)
+[2018-12-24 16:24:15] Created download interface of type 'CDN' (2) to host cdn.highwinds.cs.steampowered.com (cdn.highwinds.cs.steampowered.com)
+[2018-12-24 16:24:15] HTTP (CS,1102) - valve1102.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1102.steamcontent.com): AuthenticateDepotID (221380) - Success!
+[2018-12-24 16:24:16] HTTP (CS,1102) - valve1102.steamcontent.com (205.185.194.17:80 / 205.185.194.17:80, host: valve1102.steamcontent.com): valve1102.steamcontent.com/depot/221380/manifest/7690724934165965328/5?l=14&e=1546284203&sid=919587646&h=f907cacbff23f0a506239c9a49e3519b53aa3e13 - received 200 (OK) HTTP response
+[2018-12-24 16:24:16] AppID 221380 update changed : Running,
+[2018-12-24 16:24:16] AppID 221380 update changed : Running,Preallocating,
+[2018-12-24 16:24:16] AppID 221380 update changed : Running,
+[2018-12-24 16:24:16] AppID 221380 update started : download 0/99040, store 0/0, reuse 0/0, delta 0/0, stage 0/130231
+[2018-12-24 16:24:16] AppID 221380 update changed : Running,Downloading,
+[2018-12-24 16:24:16] AppID 221380 update changed : Running,Downloading,Staging,
+[2018-12-24 16:24:16] Downloading 3 chunks from depot 221380
+[2018-12-24 16:24:17] HTTP (CDN,4) - cdn.highwinds.cs.steampowered.com (0.0.0.0:0 / 0.0.0.0:0, host: cdn.highwinds.cs.steampowered.com): AuthenticateDepotID (221380) - Success!
+[2018-12-24 16:24:17] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: level3.cdn.steampipe.steamcontent.com): AuthenticateDepotID (221380) - Success!
+[2018-12-24 16:24:18] AppID 221380 update changed : Running,
+[2018-12-24 16:24:18] AppID 221380 update changed : Running,Committing,
+[2018-12-24 16:24:18] AppID 221380 file commit : 4 updated, 0 moved, 0 deleted
+[2018-12-24 16:24:18] AppID 221380 update changed : Running,
+[2018-12-24 16:24:18] AppID 221380 update changed : None
+[2018-12-24 16:24:18] AppID 221380 state changed : Fully Installed,App Running,
+[2018-12-24 16:24:18] AppID 221380 scheduler finished : removed from schedule
+[2018-12-24 16:24:33] AppID 221380 state changed : Fully Installed,
+[2018-12-24 16:24:33] AppID 221380 state changed : Fully Installed,App Running,
+[2018-12-24 16:25:17] HTTP (CDN,2) - level3.cdn.steampipe.steamcontent.com (200.32.103.245:80 / 200.32.103.245:80, host: level3.cdn.steampipe.steamcontent.com): Closing connection
+[2018-12-24 16:25:17] HTTP (CS,1102) - valve1102.steamcontent.com (205.185.194.17:80 / 205.185.194.17:80, host: valve1102.steamcontent.com): Closing connection
+[2018-12-24 16:25:18] HTTP (CDN,4) - cdn.highwinds.cs.steampowered.com (205.185.216.42:80 / 205.185.216.42:80, host: cdn.highwinds.cs.steampowered.com): Closing connection
+[2018-12-24 16:59:12] AppID 221380 state changed : Fully Installed,
+
+
+[2018-12-25 12:22:17] Loaded 1 apps from install folder "C:\Users\lucas\Desktop\steamapps\appmanifest_*.acf".
+[2018-12-25 12:22:41] AppID 221380 state changed : Fully Installed,App Running,
+[2018-12-25 13:15:12] AppID 221380 state changed : Fully Installed,

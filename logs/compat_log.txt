@@ -1,0 +1,36 @@
+
+
+[2018-12-24 14:57:49] No local tool list detected at C:\Users\lucas\Desktop/compatibilitytools.vdf.
+[2018-12-24 14:59:10] Processing tool list from AppID 891390
+[2018-12-24 14:59:10] Registering tool proton_37, AppID 858280
+[2018-12-24 14:59:10] Ignoring tool proton_37 as it's for a different target platform linux.
+[2018-12-24 14:59:10] Registering tool proton_37_beta, AppID 930400
+[2018-12-24 14:59:10] Ignoring tool proton_37_beta as it's for a different target platform linux.
+[2018-12-24 14:59:10] Registering tool proton_316, AppID 961940
+[2018-12-24 14:59:10] Ignoring tool proton_316 as it's for a different target platform linux.
+[2018-12-24 14:59:10] Registering tool proton_316_beta, AppID 996510
+[2018-12-24 14:59:10] Ignoring tool proton_316_beta as it's for a different target platform linux.
+
+
+[2018-12-24 16:23:03] No local tool list detected at C:\Users\lucas\Desktop/compatibilitytools.vdf.
+[2018-12-24 16:23:23] Processing tool list from AppID 891390
+[2018-12-24 16:23:23] Registering tool proton_37, AppID 858280
+[2018-12-24 16:23:23] Ignoring tool proton_37 as it's for a different target platform linux.
+[2018-12-24 16:23:23] Registering tool proton_37_beta, AppID 930400
+[2018-12-24 16:23:23] Ignoring tool proton_37_beta as it's for a different target platform linux.
+[2018-12-24 16:23:23] Registering tool proton_316, AppID 961940
+[2018-12-24 16:23:23] Ignoring tool proton_316 as it's for a different target platform linux.
+[2018-12-24 16:23:23] Registering tool proton_316_beta, AppID 996510
+[2018-12-24 16:23:23] Ignoring tool proton_316_beta as it's for a different target platform linux.
+
+
+[2018-12-25 12:22:18] No local tool list detected at C:\Users\lucas\Desktop/compatibilitytools.vdf.
+[2018-12-25 12:22:34] Processing tool list from AppID 891390
+[2018-12-25 12:22:34] Registering tool proton_37, AppID 858280
+[2018-12-25 12:22:34] Ignoring tool proton_37 as it's for a different target platform linux.
+[2018-12-25 12:22:34] Registering tool proton_37_beta, AppID 930400
+[2018-12-25 12:22:34] Ignoring tool proton_37_beta as it's for a different target platform linux.
+[2018-12-25 12:22:34] Registering tool proton_316, AppID 961940
+[2018-12-25 12:22:34] Ignoring tool proton_316 as it's for a different target platform linux.
+[2018-12-25 12:22:34] Registering tool proton_316_beta, AppID 996510
+[2018-12-25 12:22:34] Ignoring tool proton_316_beta as it's for a different target platform linux.

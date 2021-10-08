@@ -1,0 +1,98 @@
+
+
+[2018-12-24 14:59:05] Change number 0->5600083, apps: 0/0, packages: 0/0
+[2018-12-24 14:59:05] Requesting 1 apps, 2 packages (meta data, 1024 prev attempts)
+[2018-12-24 14:59:05] Requesting 1 apps, 2 packages (full data, 1024 prev attempts)
+[2018-12-24 14:59:06] UpdatesJob: finished OK, nAppsUpdated 1 (0 KB), nPackagesUpdated 2 (9 KB)
+[2018-12-24 14:59:06] Requesting 208 apps, 0 packages (meta data, 1024 prev attempts)
+[2018-12-24 14:59:07] Requested 50 access tokens, 48 received, 2 denied
+[2018-12-24 14:59:07] Updated SHAs with 48 new access tokens
+[2018-12-24 14:59:08] Downloaded 8 apps via HTTP, 393 KB (71 KB compressed)
+[2018-12-24 14:59:08] Requesting 200 apps, 0 packages (full data, 1024 prev attempts)
+[2018-12-24 14:59:10] UpdatesJob: finished OK, nAppsUpdated 208 (728 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 14:59:11] Requesting 3 apps, 0 packages (meta data, 0 prev attempts)
+[2018-12-24 14:59:12] Requested 1 access tokens, 0 received, 1 denied
+[2018-12-24 14:59:12] Downloaded 2 apps via HTTP, 41 KB (9 KB compressed)
+[2018-12-24 14:59:12] Requesting 4 apps, 0 packages (full data, 0 prev attempts)
+[2018-12-24 14:59:13] UpdatesJob: finished OK, nAppsUpdated 6 (59 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 14:59:13] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 14:59:14] Requesting 5 apps, 0 packages (meta data, 0 prev attempts)
+[2018-12-24 14:59:15] Downloaded 5 apps via HTTP, 26 KB (8 KB compressed)
+[2018-12-24 14:59:15] UpdatesJob: finished OK, nAppsUpdated 5 (26 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 14:59:30] Starting async write C:\Users\lucas\Desktop/appcache/appinfo.vdf (630520 bytes)
+[2018-12-24 14:59:54] RequestAppInfoUpdate: nNumAppIDs 1
+[2018-12-24 14:59:54] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2018-12-24 14:59:54] Requesting 2 apps, 0 packages (full data, 0 prev attempts)
+[2018-12-24 14:59:55] UpdatesJob: finished OK, nAppsUpdated 2 (1 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 14:59:55] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 15:00:10] Starting async write C:\Users\lucas\Desktop/appcache/appinfo.vdf (631978 bytes)
+[2018-12-24 15:14:05] Packages changed: force all
+[2018-12-24 15:14:05] Apps changed: 
+[2018-12-24 15:14:05] Change number 5600083->5600122, apps: 0/10, packages: 0/0
+[2018-12-24 15:14:05] Requesting 0 apps, 2 packages (meta data, 0 prev attempts)
+[2018-12-24 15:14:06] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 15:29:05] Packages changed: 
+[2018-12-24 15:29:05] Apps changed: 
+[2018-12-24 15:29:05] Change number 5600122->5600135, apps: 0/8, packages: 0/2
+[2018-12-24 15:44:05] Packages changed: 
+[2018-12-24 15:44:05] Apps changed: 
+[2018-12-24 15:44:05] Change number 5600135->5600157, apps: 0/14, packages: 0/4
+[2018-12-24 15:59:05] Apps changed: 
+[2018-12-24 15:59:05] Change number 5600157->5600175, apps: 0/10, packages: 0/0
+
+
+[2018-12-24 16:23:19] Packages changed: 
+[2018-12-24 16:23:19] Apps changed: 
+[2018-12-24 16:23:19] Change number 5600175->5600224, apps: 0/16, packages: 0/1
+[2018-12-24 16:23:19] Requesting 1 apps, 2 packages (meta data, 1024 prev attempts)
+[2018-12-24 16:23:19] Requesting 1 apps, 2 packages (full data, 1024 prev attempts)
+[2018-12-24 16:23:20] UpdatesJob: finished OK, nAppsUpdated 1 (0 KB), nPackagesUpdated 2 (9 KB)
+[2018-12-24 16:23:20] Requesting 208 apps, 0 packages (meta data, 1024 prev attempts)
+[2018-12-24 16:23:21] Requested 50 access tokens, 48 received, 2 denied
+[2018-12-24 16:23:21] Updated SHAs with 48 new access tokens
+[2018-12-24 16:23:22] Downloaded 8 apps via HTTP, 393 KB (71 KB compressed)
+[2018-12-24 16:23:22] Requesting 200 apps, 0 packages (full data, 1024 prev attempts)
+[2018-12-24 16:23:23] UpdatesJob: finished OK, nAppsUpdated 208 (728 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 16:23:25] Requesting 3 apps, 0 packages (meta data, 0 prev attempts)
+[2018-12-24 16:23:26] Requested 1 access tokens, 0 received, 1 denied
+[2018-12-24 16:23:26] Downloaded 2 apps via HTTP, 41 KB (9 KB compressed)
+[2018-12-24 16:23:26] Requesting 4 apps, 0 packages (full data, 0 prev attempts)
+[2018-12-24 16:23:27] UpdatesJob: finished OK, nAppsUpdated 6 (59 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 16:23:27] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 16:23:27] Requesting 5 apps, 0 packages (meta data, 0 prev attempts)
+[2018-12-24 16:23:31] Downloaded 5 apps via HTTP, 26 KB (8 KB compressed)
+[2018-12-24 16:23:31] UpdatesJob: finished OK, nAppsUpdated 5 (26 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 16:23:46] Starting async write C:\Users\lucas\Desktop/appcache/appinfo.vdf (630520 bytes)
+[2018-12-24 16:24:18] Requesting 4 apps, 0 packages (meta data, 0 prev attempts)
+[2018-12-24 16:24:18] Requested 1 access tokens, 0 received, 1 denied
+[2018-12-24 16:24:19] Downloaded 1 apps via HTTP, 1 KB (0 KB compressed)
+[2018-12-24 16:24:19] Requesting 3 apps, 0 packages (full data, 0 prev attempts)
+[2018-12-24 16:24:19] UpdatesJob: finished OK, nAppsUpdated 4 (2 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-24 16:24:34] Starting async write C:\Users\lucas\Desktop/appcache/appinfo.vdf (632606 bytes)
+[2018-12-24 16:38:19] Apps changed: 
+[2018-12-24 16:38:19] Change number 5600224->5600249, apps: 0/8, packages: 0/0
+[2018-12-24 16:53:19] Packages changed: 
+[2018-12-24 16:53:19] Apps changed: 
+[2018-12-24 16:53:19] Change number 5600249->5600261, apps: 0/10, packages: 0/3
+
+
+[2018-12-25 12:22:34] Packages changed: force all
+[2018-12-25 12:22:34] Apps changed: 220=5601309,223350=5601179,
+[2018-12-25 12:22:34] Change number 5600261->5601986, apps: 2/889, packages: 0/0
+[2018-12-25 12:22:34] Requesting 6 apps, 2 packages (meta data, 0 prev attempts)
+[2018-12-25 12:22:35] Requested 4 access tokens, 0 received, 4 denied
+[2018-12-25 12:22:37] Downloaded 2 apps via HTTP, 19 KB (5 KB compressed)
+[2018-12-25 12:22:37] UpdatesJob: finished OK, nAppsUpdated 2 (19 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-25 12:22:52] Starting async write C:\Users\lucas\Desktop/appcache/appinfo.vdf (632606 bytes)
+[2018-12-25 12:37:34] Packages changed: 
+[2018-12-25 12:37:34] Apps changed: 
+[2018-12-25 12:37:34] Change number 5601986->5602008, apps: 0/12, packages: 0/8
+[2018-12-25 12:52:34] Apps changed: 
+[2018-12-25 12:52:34] Change number 5602008->5602028, apps: 0/16, packages: 0/0
+[2018-12-25 13:07:34] Packages changed: 
+[2018-12-25 13:07:34] Apps changed: 220=5602041,
+[2018-12-25 13:07:34] Change number 5602028->5602109, apps: 1/79, packages: 0/3
+[2018-12-25 13:07:34] Requesting 1 apps, 0 packages (meta data, 0 prev attempts)
+[2018-12-25 13:07:35] Downloaded 1 apps via HTTP, 6 KB (2 KB compressed)
+[2018-12-25 13:07:35] UpdatesJob: finished OK, nAppsUpdated 1 (6 KB), nPackagesUpdated 0 (0 KB)
+[2018-12-25 13:07:50] Starting async write C:\Users\lucas\Desktop/appcache/appinfo.vdf (632606 bytes)

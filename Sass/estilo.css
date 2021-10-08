@@ -1,0 +1,583 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* LOGO */
+#logo {
+  overflow: hidden;
+}
+
+#logo img {
+  width: 100%;
+}
+
+/* CUERPO */
+body {
+  background-color: black;
+}
+
+.navbar {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  padding: .5rem 1rem;
+  font-size: 20px;
+  background-color: brown;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: burlywood;
+}
+
+.dropdown-menu.show {
+  display: block;
+  background-color: #16120b;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  min-width: 7rem;
+  padding: .5rem 0;
+  margin: .125rem 0 0;
+  color: #212529;
+  list-style: none;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: .25rem;
+}
+
+.submenu:hover {
+  background-color: #6e6a6a;
+  height: 100%;
+}
+
+/* Presentacion */
+.alert-success {
+  color: cadetblue;
+  background-color: black;
+  text-align: center;
+}
+
+.alert {
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: black;
+}
+
+.bienvenida {
+  font-size: 60px;
+}
+
+.parrafo {
+  color: cadetblue;
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+}
+
+/* Video centrado */
+.video {
+  text-align: center;
+}
+
+.articulo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border: black;
+}
+
+.card {
+  position: relative;
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: black;
+}
+
+.card-title {
+  text-align: center;
+  font-size: 30px;
+  color: burlywood;
+}
+
+.card-text {
+  font-style: italic;
+}
+
+p {
+  color: cadetblue;
+}
+
+/* SUBSCRIPCIONES */
+.suscripciones {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.sub {
+  text-align: center;
+  color: #736985;
+  font-size: 22px;
+}
+
+.precio {
+  text-align: center;
+  font-size: 15px;
+  border: 1px solid blanchedalmond;
+}
+
+div.boton {
+  text-align: center;
+}
+
+.contactos {
+  background: -webkit-gradient(linear, left top, left bottom, from(grey), to(black));
+  background: linear-gradient(to bottom, grey, black);
+  padding: 0%;
+  width: 100%;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+
+.contactos li a {
+  color: blanchedalmond;
+}
+
+h2.opinion {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 2px;
+}
+
+#comentarios {
+  text-align: center;
+  padding: 20px;
+}
+
+textarea {
+  width: 60%;
+  height: 90px;
+  font-size: 17px;
+}
+
+.click:hover {
+  cursor: pointer;
+  -webkit-transform: translateY(3px);
+          transform: translateY(3px);
+  -webkit-transition: all cubic-bezier(0.25, 0.61, 0.355, 1) 2s;
+  transition: all cubic-bezier(0.25, 0.61, 0.355, 1) 2s;
+}
+
+.icono {
+  color: blanchedalmond;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#logo img {
+  width: 100%;
+}
+
+/* CUERPO */
+body {
+  background-color: #000;
+}
+
+.navbar {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  padding: .5rem 1rem;
+  font-size: 20px;
+  background-color: brown;
+}
+
+.navbar .navbar a {
+  text-decoration: none;
+  color: burlywood;
+}
+
+.navbar .dropdown-menu.show {
+  display: block;
+  background-color: #16120b;
+}
+
+.navbar .dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  min-width: 7rem;
+  padding: .5rem 0;
+  margin: .125rem 0 0;
+  color: #212529;
+  list-style: none;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: .25rem;
+}
+
+.navbar .submenu:hover {
+  background-color: #6e6a6a;
+  height: 100%;
+}
+
+/* Presentacion */
+.alert {
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: black;
+}
+
+.alert .alert-success {
+  color: 95, 158, 160;
+  background-color: #000;
+  text-align: center;
+}
+
+.bienvenida {
+  font-size: 60px;
+  font-weight: bold;
+  color: #685134;
+}
+
+.parrafo {
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+}
+
+/* Video centrado */
+.video {
+  text-align: center;
+}
+
+.articulo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border: black;
+}
+
+.articulo .card {
+  position: relative;
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #000;
+}
+
+.articulo .card-title-index {
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+  color: #685134;
+}
+
+.articulo .card-text-index {
+  font-style: italic;
+  color: white;
+  font-size: 20px;
+}
+
+/* SUBSCRIPCIONES */
+.suscripciones {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.suscripciones .sub {
+  text-align: center;
+  color: #685134;
+  font-size: 22px;
+}
+
+.suscripciones .precio {
+  text-align: center;
+  font-size: 15px;
+  border: 1px solid blanchedalmond;
+}
+
+.suscripciones div.boton {
+  text-align: center;
+}
+
+.contactos {
+  background: -webkit-gradient(linear, left top, left bottom, from(grey), to(black));
+  background: linear-gradient(to bottom, grey, black);
+  padding: 0%;
+  width: 100%;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+
+.contactos .contactos li a {
+  color: blanchedalmond;
+}
+
+.contactos .icono {
+  color: blanchedalmond;
+}
+
+h2.opinion {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 2px;
+}
+
+#comentarios {
+  text-align: center;
+  padding: 20px;
+}
+
+#comentarios textarea {
+  width: 60%;
+  height: 90px;
+  font-size: 17px;
+}
+
+#comentarios .click:hover {
+  cursor: pointer;
+  -webkit-transform: translateY(3px);
+          transform: translateY(3px);
+  -webkit-transition: all cubic-bezier(0.25, 0.61, 0.355, 1) 2s;
+  transition: all cubic-bezier(0.25, 0.61, 0.355, 1) 2s;
+}
+
+.media {
+  display: block;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.p-futbol {
+  color: #425e68;
+  font-size: 17px;
+  text-align: center;
+  border: solid 1px grey;
+}
+
+.pagina-error {
+  margin: 0px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#ff8177), color-stop(0%, #ff867a), color-stop(21%, #ff8c7f), color-stop(52%, #f99185), color-stop(78%, #cf556c), to(#b12a5b));
+  background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+}
+
+.animacion {
+  -webkit-animation-duration: 2.5s;
+          animation-duration: 2.5s;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes bounce {
+  0%, 20%, 50%, 100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  40% {
+    -webkit-transform: translateY(-30px);
+            transform: translateY(-30px);
+  }
+  60% {
+    -webkit-transform: translateY(-15px);
+            transform: translateY(-15px);
+  }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  40% {
+    -webkit-transform: translateY(-30px);
+            transform: translateY(-30px);
+  }
+  60% {
+    -webkit-transform: translateY(-15px);
+            transform: translateY(-15px);
+  }
+}
+
+.bounce {
+  -webkit-animation-name: bounce;
+          animation-name: bounce;
+}
+
+.error {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 100%;
+}
+
+.error-container {
+  text-align: center;
+  color: white;
+  margin-top: 20%;
+}
+
+.error-container h1 {
+  font-size: 60px;
+}
+
+.error-container p {
+  font-size: 18px;
+  color: black;
+}
+
+.card-title-futbol {
+  font-size: 30px;
+  color: blanchedalmond;
+  font-weight: bold;
+}
+
+.card-text-futbol {
+  font-size: 18px;
+  color: white;
+}
+
+.media-body {
+  border: solid 2px #773737;
+}
+
+.lead {
+  color: #f2f3ea;
+}
+
+.nba {
+  font-size: 48px;
+  color: #fdfbf9;
+  text-align: inherit;
+}
+
+.texto-basquet {
+  font-size: 20px;
+  color: #e7e7dd;
+  text-align: webkit-left;
+}
+
+h5 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #080808;
+}
+
+.parrafo-basquet {
+  color: #faf6f6;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo-tenis {
+  font-size: 40px;
+  font-weight: bold;
+  color: #080808;
+}
+
+.parrafo-tenis {
+  color: black;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-text-tenis {
+  font-size: 18px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-text-tenis {
+  font-size: 18px;
+  color: white;
+  line-height: inherit;
+}
+
+.card-title-tienda {
+  font-size: 30px;
+  color: blanchedalmond;
+  font-weight: bold;
+}
+
+.card-text-tienda {
+  font-size: 18px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/*# sourceMappingURL=estilo.css.map */

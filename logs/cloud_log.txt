@@ -1,0 +1,189 @@
+
+
+[2018-12-24 14:59:05] [U:1:919587646] [AppID 7] Init cache request complete
+[2018-12-24 14:59:05] Starting sync job
+[2018-12-24 14:59:05] [AppID 7] Starting sync (init)
+[2018-12-24 14:59:10] Starting sync job
+[2018-12-24 14:59:10] [AppID 7] Starting sync (download)
+[2018-12-24 14:59:11] [AppID 7] Download complete in build list
+[2018-12-24 14:59:34] Starting sync job
+[2018-12-24 14:59:34] [AppID 7] Starting sync (upload)
+[2018-12-24 14:59:34] [AppID 7] Need to upload file sharedconfig.vdf
+[2018-12-24 14:59:41] [AppID 7] HTTP upload for file 'sharedconfig.vdf' beginning . . .
+[2018-12-24 14:59:42] [AppID 7] HTTP upload for file 'sharedconfig.vdf' (offset=0, length=165) to host 'steamcloud-us-east.s3.amazonaws.com', path /3E/CB/CF/36/7/035_7_1A477EB8_600EE_1.dat?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEYAFUFLL3GRVB5Q%2F20181224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20181224T175849Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=content-type%3Bhost&X-Amz-Signature=7297a90d4c98018fc81b3d595444b4b63e5365388011a937d21aa33f14aa57e1 - success.
+[2018-12-24 14:59:43] [AppID 7] Upload OK for file sharedconfig.vdf
+[2018-12-24 14:59:43] [AppID 7] Upload complete, result OK
+[2018-12-24 15:30:13] Starting sync job
+[2018-12-24 15:30:13] [AppID 7] Starting sync (upload)
+[2018-12-24 15:30:13] [AppID 7] Need to download file sharedconfig.vdf
+[2018-12-24 15:30:13] [AppID 7] Upload complete in build list
+[2018-12-24 15:30:43] Starting sync job
+[2018-12-24 15:30:43] [AppID 7] Starting sync (download)
+[2018-12-24 15:30:43] [AppID 7] Need to download file sharedconfig.vdf
+[2018-12-24 15:30:44] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-us-east.s3.amazonaws.com' beginning. . .
+[2018-12-24 15:30:47] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-us-east.s3.amazonaws.com' - Success.
+[2018-12-24 15:30:47] [AppID 7] Download OK for file sharedconfig.vdf
+[2018-12-24 15:30:47] [AppID 7] Download complete, result OK
+[2018-12-24 15:57:15] [U:1:919587646] [AppID 221380] Init cache request complete
+[2018-12-24 15:57:15] Starting sync job
+[2018-12-24 15:57:15] [AppID 221380] Starting sync (eval)
+[2018-12-24 15:57:16] [AppID 221380] Eval complete
+[2018-12-24 16:12:12] [U:1:919587646] [AppID 760] Init cache request complete
+[2018-12-24 16:12:12] Starting sync job
+[2018-12-24 16:12:12] [AppID 760] Starting sync (eval)
+[2018-12-24 16:12:12] [AppID 221380] Starting sync (eval)
+[2018-12-24 16:12:13] [AppID 760] Eval complete
+[2018-12-24 16:12:13] [AppID 221380] Eval complete
+[2018-12-24 16:12:13] [AppID 221380] Running AutoCloud on launch. Looking for existing files to watch:
+[2018-12-24 16:12:13] [AppID 221380] AutoCloud done. Watching 0 files
+[2018-12-24 16:12:45] [AppID 221380] Running AutoCloud on exit. Looking for new and updated files
+[2018-12-24 16:12:45] [AppID 221380]     Evaluating rule 6 with root="GameInstall" path="Profiles" pattern="*.nfp" (recursive)
+[2018-12-24 16:12:45] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\*.nfp
+[2018-12-24 16:12:45] [AppID 221380]     Evaluating rule 7 with root="GameInstall" path="Profiles" pattern="*.hki" (recursive)
+[2018-12-24 16:12:45] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\*.hki
+[2018-12-24 16:12:45] [AppID 221380]     Evaluating rule 9 with root="GameInstall" path="SaveGame" pattern="*.aoe2spgame" (recursive)
+[2018-12-24 16:12:45] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\*.aoe2spgame
+[2018-12-24 16:12:45] [AppID 221380]     Evaluating rule 10 with root="GameInstall" path="SaveGame" pattern="*.aoe2mpgame" (recursive)
+[2018-12-24 16:12:45] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\*.aoe2mpgame
+[2018-12-24 16:12:45] [AppID 221380] AutoCloud complete
+[2018-12-24 16:12:45] Starting sync job
+[2018-12-24 16:12:45] [AppID 221380] Starting sync (upload)
+[2018-12-24 16:12:45] [AppID 221380] Upload complete in build list
+[2018-12-24 16:13:24] Starting sync job
+[2018-12-24 16:13:24] [AppID 221380] Starting sync (eval)
+[2018-12-24 16:13:25] [AppID 221380] Eval complete
+[2018-12-24 16:13:25] [AppID 221380] Running AutoCloud on launch. Looking for existing files to watch:
+[2018-12-24 16:13:25] [AppID 221380] AutoCloud done. Watching 0 files
+[2018-12-24 16:13:33] [AppID 221380] Running AutoCloud on exit. Looking for new and updated files
+[2018-12-24 16:13:33] [AppID 221380]     Evaluating rule 6 with root="GameInstall" path="Profiles" pattern="*.nfp" (recursive)
+[2018-12-24 16:13:33] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\*.nfp
+[2018-12-24 16:13:33] [AppID 221380]     Evaluating rule 7 with root="GameInstall" path="Profiles" pattern="*.hki" (recursive)
+[2018-12-24 16:13:33] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\*.hki
+[2018-12-24 16:13:33] [AppID 221380]     Evaluating rule 9 with root="GameInstall" path="SaveGame" pattern="*.aoe2spgame" (recursive)
+[2018-12-24 16:13:33] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\*.aoe2spgame
+[2018-12-24 16:13:33] [AppID 221380]     Evaluating rule 10 with root="GameInstall" path="SaveGame" pattern="*.aoe2mpgame" (recursive)
+[2018-12-24 16:13:33] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\*.aoe2mpgame
+[2018-12-24 16:13:33] [AppID 221380] AutoCloud complete
+[2018-12-24 16:13:33] Starting sync job
+[2018-12-24 16:13:33] [AppID 221380] Starting sync (upload)
+[2018-12-24 16:13:33] [AppID 221380] Upload complete in build list
+
+
+[2018-12-24 16:23:13] [U:1:919587646] [AppID 7] Init cache request complete
+[2018-12-24 16:23:13] Starting sync job
+[2018-12-24 16:23:13] [AppID 7] Starting sync (init)
+[2018-12-24 16:23:14] [U:1:919587646] [AppID 7] Init cache request complete
+[2018-12-24 16:23:14] Starting sync job
+[2018-12-24 16:23:14] [AppID 7] Starting sync (init)
+[2018-12-24 16:23:23] Starting sync job
+[2018-12-24 16:23:23] [AppID 7] Starting sync (download)
+[2018-12-24 16:23:23] [AppID 7] File is in sync sharedconfig.vdf
+[2018-12-24 16:23:23] [AppID 7] Download complete in build list
+[2018-12-24 16:23:30] [U:1:919587646] [AppID 221380] Init cache request complete
+[2018-12-24 16:23:30] Starting sync job
+[2018-12-24 16:23:30] [AppID 221380] Starting sync (eval)
+[2018-12-24 16:23:31] [AppID 221380] Eval complete
+[2018-12-24 16:23:31] [AppID 221380] Running AutoCloud on launch. Looking for existing files to watch:
+[2018-12-24 16:23:31] [AppID 221380] AutoCloud done. Watching 0 files
+[2018-12-24 16:23:31] [U:1:919587646] [AppID 760] Init cache request complete
+[2018-12-24 16:23:31] Starting sync job
+[2018-12-24 16:23:31] [AppID 760] Starting sync (eval)
+[2018-12-24 16:23:32] [AppID 760] Eval complete
+[2018-12-24 16:24:33] [AppID 221380] Running AutoCloud on exit. Looking for new and updated files
+[2018-12-24 16:24:33] [AppID 221380]     Evaluating rule 6 with root="GameInstall" path="Profiles" pattern="*.nfp" (recursive)
+[2018-12-24 16:24:33] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\*.nfp
+[2018-12-24 16:24:33] [AppID 221380]     Evaluating rule 7 with root="GameInstall" path="Profiles" pattern="*.hki" (recursive)
+[2018-12-24 16:24:33] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\*.hki
+[2018-12-24 16:24:33] [AppID 221380]     Evaluating rule 9 with root="GameInstall" path="SaveGame" pattern="*.aoe2spgame" (recursive)
+[2018-12-24 16:24:33] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\*.aoe2spgame
+[2018-12-24 16:24:33] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\multi\*.aoe2spgame
+[2018-12-24 16:24:33] [AppID 221380]     Evaluating rule 10 with root="GameInstall" path="SaveGame" pattern="*.aoe2mpgame" (recursive)
+[2018-12-24 16:24:33] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\*.aoe2mpgame
+[2018-12-24 16:24:33] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\multi\*.aoe2mpgame
+[2018-12-24 16:24:33] [AppID 221380] AutoCloud complete
+[2018-12-24 16:24:33] Starting sync job
+[2018-12-24 16:24:33] [AppID 221380] Starting sync (upload)
+[2018-12-24 16:24:33] [AppID 221380] Upload complete in build list
+[2018-12-24 16:24:33] [AppID 221380] Running AutoCloud on launch. Looking for existing files to watch:
+[2018-12-24 16:24:33] [AppID 221380] AutoCloud done. Watching 0 files
+[2018-12-24 16:59:12] [AppID 221380] Running AutoCloud on exit. Looking for new and updated files
+[2018-12-24 16:59:12] [AppID 221380]     Evaluating rule 6 with root="GameInstall" path="Profiles" pattern="*.nfp" (recursive)
+[2018-12-24 16:59:12] [AppID 221380]         Found 1 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\*.nfp
+[2018-12-24 16:59:12] [AppID 221380]     Evaluating rule 7 with root="GameInstall" path="Profiles" pattern="*.hki" (recursive)
+[2018-12-24 16:59:12] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\*.hki
+[2018-12-24 16:59:12] [AppID 221380]     Evaluating rule 9 with root="GameInstall" path="SaveGame" pattern="*.aoe2spgame" (recursive)
+[2018-12-24 16:59:12] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\*.aoe2spgame
+[2018-12-24 16:59:12] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\multi\*.aoe2spgame
+[2018-12-24 16:59:12] [AppID 221380]     Evaluating rule 10 with root="GameInstall" path="SaveGame" pattern="*.aoe2mpgame" (recursive)
+[2018-12-24 16:59:12] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\*.aoe2mpgame
+[2018-12-24 16:59:12] [AppID 221380]         Found 1 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\multi\*.aoe2mpgame
+[2018-12-24 16:59:12] [AppID 221380]     Persisting file C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\multi\ACA VIEJO!!!!!!!-3ad46b6a-3e62-473b-a894ba612af399d0.aoe2mpgame to the cloud
+[2018-12-24 16:59:12] [AppID 221380]     Persisting file C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\Player.nfp to the cloud
+[2018-12-24 16:59:12] [AppID 221380] AutoCloud complete
+[2018-12-24 16:59:12] Starting sync job
+[2018-12-24 16:59:12] [AppID 221380] Starting sync (upload)
+[2018-12-24 16:59:12] [AppID 221380] Need to upload file SaveGame/multi/ACA VIEJO!!!!!!!-3ad46b6a-3e62-473b-a894ba612af399d0.aoe2mpgame
+[2018-12-24 16:59:12] [AppID 221380] Need to upload file Profiles/Player.nfp
+[2018-12-24 16:59:12] [AppID 221380] HTTP upload for file 'SaveGame/multi/ACA VIEJO!!!!!!!-3ad46b6a-3e62-473b-a894ba612af399d0.aoe2mpgame' beginning . . .
+[2018-12-24 16:59:27] [AppID 221380] HTTP upload for file 'SaveGame/multi/ACA VIEJO!!!!!!!-3ad46b6a-3e62-473b-a894ba612af399d0.aoe2mpgame' (offset=0, length=752262) to host 'steamclouduseast.blob.core.windows.net', path /cloud/3E/CB/CF/36/221380/035_7_1A477EB8_C1338_1.dat - success.
+[2018-12-24 16:59:27] [AppID 221380] Upload OK for file SaveGame/multi/ACA VIEJO!!!!!!!-3ad46b6a-3e62-473b-a894ba612af399d0.aoe2mpgame
+[2018-12-24 16:59:27] [AppID 221380] HTTP upload for file 'Profiles/Player.nfp' beginning . . .
+[2018-12-24 16:59:28] [AppID 221380] HTTP upload for file 'Profiles/Player.nfp' (offset=0, length=335) to host 'steamcloud-us-east.s3.amazonaws.com', path /3E/CB/CF/36/221380/035_7_1A477EB8_C1680_1.dat?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJEYAFUFLL3GRVB5Q%2F20181224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20181224T195835Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=content-type%3Bhost&X-Amz-Signature=022c399315a6e1709ea18d8d1ec6d00ff7bf9352fae6788ccd3f5f84b0bb430d - success.
+[2018-12-24 16:59:29] [AppID 221380] Upload OK for file Profiles/Player.nfp
+[2018-12-24 16:59:29] [AppID 221380] Upload complete, result OK
+
+
+[2018-12-25 12:22:28] [U:1:919587646] [AppID 7] Init cache request complete
+[2018-12-25 12:22:28] Starting sync job
+[2018-12-25 12:22:28] [AppID 7] Starting sync (init)
+[2018-12-25 12:22:29] [U:1:919587646] [AppID 7] Init cache request complete
+[2018-12-25 12:22:29] Starting sync job
+[2018-12-25 12:22:29] [AppID 7] Starting sync (init)
+[2018-12-25 12:22:34] Starting sync job
+[2018-12-25 12:22:34] [AppID 7] Starting sync (eval)
+[2018-12-25 12:22:34] [AppID 7] File is in sync sharedconfig.vdf
+[2018-12-25 12:22:34] [AppID 7] Eval complete
+[2018-12-25 12:22:34] Starting sync job
+[2018-12-25 12:22:34] [AppID 7] Starting sync (download)
+[2018-12-25 12:22:34] [AppID 7] File is in sync sharedconfig.vdf
+[2018-12-25 12:22:34] [AppID 7] Download complete in build list
+[2018-12-25 12:22:35] Starting sync job
+[2018-12-25 12:22:35] [AppID 7] Starting sync (eval)
+[2018-12-25 12:22:35] [AppID 7] File is in sync sharedconfig.vdf
+[2018-12-25 12:22:35] [AppID 7] Eval complete
+[2018-12-25 12:22:40] [U:1:919587646] [AppID 221380] Init cache request complete
+[2018-12-25 12:22:40] Starting sync job
+[2018-12-25 12:22:40] [AppID 221380] Starting sync (eval)
+[2018-12-25 12:22:41] [AppID 221380] File is in sync SaveGame/multi/ACA VIEJO!!!!!!!-3ad46b6a-3e62-473b-a894ba612af399d0.aoe2mpgame
+[2018-12-25 12:22:41] [AppID 221380] File is in sync Profiles/Player.nfp
+[2018-12-25 12:22:41] [AppID 221380] Eval complete
+[2018-12-25 12:22:41] [AppID 221380] Running AutoCloud on launch. Looking for existing files to watch:
+[2018-12-25 12:22:41] [AppID 221380]     Watching file C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\Player.nfp
+[2018-12-25 12:22:41] [AppID 221380]     Watching file C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\multi\ACA VIEJO!!!!!!!-3ad46b6a-3e62-473b-a894ba612af399d0.aoe2mpgame
+[2018-12-25 12:22:41] [AppID 221380] AutoCloud done. Watching 2 files
+[2018-12-25 12:22:41] [U:1:919587646] [AppID 760] Init cache request complete
+[2018-12-25 12:22:41] Starting sync job
+[2018-12-25 12:22:41] [AppID 760] Starting sync (eval)
+[2018-12-25 12:22:42] [AppID 760] Eval complete
+[2018-12-25 13:15:12] [AppID 221380] Running AutoCloud on exit. Looking for new and updated files
+[2018-12-25 13:15:12] [AppID 221380]     Evaluating rule 6 with root="GameInstall" path="Profiles" pattern="*.nfp" (recursive)
+[2018-12-25 13:15:12] [AppID 221380]         Found 1 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\*.nfp
+[2018-12-25 13:15:12] [AppID 221380]     Evaluating rule 7 with root="GameInstall" path="Profiles" pattern="*.hki" (recursive)
+[2018-12-25 13:15:12] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\*.hki
+[2018-12-25 13:15:12] [AppID 221380]     Evaluating rule 9 with root="GameInstall" path="SaveGame" pattern="*.aoe2spgame" (recursive)
+[2018-12-25 13:15:12] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\*.aoe2spgame
+[2018-12-25 13:15:12] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\multi\*.aoe2spgame
+[2018-12-25 13:15:12] [AppID 221380]     Evaluating rule 10 with root="GameInstall" path="SaveGame" pattern="*.aoe2mpgame" (recursive)
+[2018-12-25 13:15:12] [AppID 221380]         Found 0 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\*.aoe2mpgame
+[2018-12-25 13:15:12] [AppID 221380]         Found 1 files that match C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\multi\*.aoe2mpgame
+[2018-12-25 13:15:12] [AppID 221380]     Persisting file C:\Users\lucas\Desktop\steamapps\common\Age2HD\SaveGame\multi\ACA VIEJO!!!!!!!-3ad46b6a-3e62-473b-a894ba612af399d0.aoe2mpgame to the cloud
+[2018-12-25 13:15:12] [AppID 221380]     Persisting file C:\Users\lucas\Desktop\steamapps\common\Age2HD\Profiles\Player.nfp to the cloud
+[2018-12-25 13:15:12] [AppID 221380] AutoCloud complete
+[2018-12-25 13:15:13] Starting sync job
+[2018-12-25 13:15:13] [AppID 221380] Starting sync (upload)
+[2018-12-25 13:15:13] [AppID 221380] File is in sync SaveGame/multi/ACA VIEJO!!!!!!!-3ad46b6a-3e62-473b-a894ba612af399d0.aoe2mpgame
+[2018-12-25 13:15:13] [AppID 221380] Need to upload file Profiles/Player.nfp
+[2018-12-25 13:15:13] [AppID 221380] HTTP upload for file 'Profiles/Player.nfp' beginning . . .
+[2018-12-25 13:15:14] [AppID 221380] HTTP upload for file 'Profiles/Player.nfp' (offset=0, length=597) to host 'steamclouduseast.blob.core.windows.net', path /cloud/3E/CB/CF/36/221380/035_7_1A477EB8_C1680_2.dat - success.
+[2018-12-25 13:15:15] [AppID 221380] Upload OK for file Profiles/Player.nfp
+[2018-12-25 13:15:15] [AppID 221380] Upload complete, result OK

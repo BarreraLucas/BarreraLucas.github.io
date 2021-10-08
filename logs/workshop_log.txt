@@ -1,0 +1,23 @@
+
+
+[2018-12-24 14:59:04] Loading workshop items for 0 installed apps for user [U:1:919587646]:
+[2018-12-24 14:59:58] [AppID 221380] Loaded workshop items in "C:\Users\lucas\Desktop\steamapps\workshop" (0 installed, 0 needed)
+[2018-12-24 15:57:15] [AppID 221380] Starting Workshop download job (  validating)
+[2018-12-24 15:57:15] [AppID 221380] Running full workshop file validation
+[2018-12-24 15:57:15] [AppID 221380] Finished Workshop download job : No Error
+
+
+[2018-12-24 16:23:19] Loading workshop items for 1 installed apps for user [U:1:919587646]:
+[2018-12-24 16:24:13] [AppID 221380] Subscribed to item 927865693
+[2018-12-24 16:24:14] [AppID 221380] Loaded workshop items in "C:\Users\lucas\Desktop\steamapps\workshop" (0 installed, 0 needed)
+[2018-12-24 16:24:14] [AppID 221380] Detected workshop change : added subscribed item 927865693
+[2018-12-24 16:24:14] [AppID 221380] Starting Workshop download job (downloading  )
+[2018-12-24 16:24:14] [AppID 221380] Detected workshop change : changed cached item 927865693, new manifest 7690724934165965328
+[2018-12-24 16:24:14] [AppID 221380] Workshop update job started while app is running, commit : yes
+[2018-12-24 16:24:18] [AppID 221380] Finished Workshop download job : No Error
+[2018-12-24 16:24:37] [AppID 221380] Subscribed to item 927865693
+
+
+[2018-12-25 12:22:34] Loading workshop items for 1 installed apps for user [U:1:919587646]:
+[2018-12-25 12:22:34] [AppID 221380] Loaded workshop items in "C:\Users\lucas\Desktop\steamapps\workshop" (1 installed, 1 needed)
+[2018-12-25 12:22:56] [AppID 221380] Subscribed to item 927865693

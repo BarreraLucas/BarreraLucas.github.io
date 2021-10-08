@@ -1,0 +1,64 @@
+
+
+[2018-12-24 16:07:13] Lizard Mode: Privileged process
+
+[2018-12-24 16:07:13] Lizard Mode: Reverting to default M/KB Configuration
+
+[2018-12-24 16:07:13] OnFocusWindowChanged to Lizard Mode
+
+[2018-12-24 16:07:16] Lizard Mode: Unprivileged process
+
+[2018-12-24 16:07:16] Lizard Mode: Restoring app mapping
+
+[2018-12-24 16:07:17] Lizard Mode: Privileged process
+
+[2018-12-24 16:07:17] Lizard Mode: Reverting to default M/KB Configuration
+
+[2018-12-24 16:07:17] OnFocusWindowChanged to Lizard Mode
+
+[2018-12-24 16:07:19] Lizard Mode: Unprivileged process
+
+[2018-12-24 16:07:19] Lizard Mode: Restoring app mapping
+
+[2018-12-24 16:07:19] Lizard Mode: Privileged process
+
+[2018-12-24 16:07:19] Lizard Mode: Reverting to default M/KB Configuration
+
+[2018-12-24 16:07:19] OnFocusWindowChanged to Lizard Mode
+
+[2018-12-24 16:07:19] Lizard Mode: Unprivileged process
+
+[2018-12-24 16:07:19] Lizard Mode: Restoring app mapping
+
+[2018-12-24 16:07:20] Lizard Mode: Privileged process
+
+[2018-12-24 16:07:20] Lizard Mode: Reverting to default M/KB Configuration
+
+[2018-12-24 16:07:20] OnFocusWindowChanged to Lizard Mode
+
+[2018-12-24 16:07:20] Lizard Mode: Unprivileged process
+
+[2018-12-24 16:07:20] Lizard Mode: Restoring app mapping
+
+[2018-12-24 16:07:22] Lizard Mode: Privileged process
+
+[2018-12-24 16:07:22] Lizard Mode: Reverting to default M/KB Configuration
+
+[2018-12-24 16:07:22] OnFocusWindowChanged to Lizard Mode
+
+[2018-12-24 16:07:36] OnFocusWindowChanged to Lizard Mode
+
+[2018-12-24 16:07:36] Lizard Mode: Unprivileged process
+
+[2018-12-24 16:07:36] Lizard Mode: Restoring app mapping
+
+[2018-12-24 16:07:37] Lizard Mode: Privileged process
+
+[2018-12-24 16:07:37] Lizard Mode: Reverting to default M/KB Configuration
+
+[2018-12-24 16:07:37] OnFocusWindowChanged to Lizard Mode
+
+[2018-12-24 16:09:58] Lizard Mode: Unprivileged process
+
+[2018-12-24 16:09:58] Lizard Mode: Restoring app mapping
+

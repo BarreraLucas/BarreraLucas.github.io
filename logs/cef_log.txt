@@ -1,0 +1,6 @@
+[1224/145745.313:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: browser
+[1224/145801.988:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: gpu-process
+[1224/162256.597:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: browser
+[1224/162311.874:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: gpu-process
+[1225/122212.606:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: browser
+[1225/122227.660:INFO:crash_reporting.cc(216)] Crash reporting enabled for process: gpu-process
